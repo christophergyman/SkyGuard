@@ -15,7 +15,7 @@ SkyGuard will attempt to merge AI with a swarm of drones for a multidude of defe
 
 ## How?
 In order to build SkyGaurd into a company that will aid in Effective Technological Accelerationism we will have to tackle the engineering problems starting with:
-1. Human Hand Symbol Detection (ML Model - Software) 
+1. Operator Hand Detection System (ML Model - Software) 
 2. SkyGaurd Sender - Developement Board to send encrypted radio frequencies (Hardware) 
 3. SkyGuard Shield - Custom FPV Drone (Hardware)
 4. SkyGaurd Reciever - Developement Board to read encrypted radio frequencies (Hardware) 
