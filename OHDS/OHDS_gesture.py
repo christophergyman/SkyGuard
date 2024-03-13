@@ -41,8 +41,7 @@ while cap.isOpened():
             little_finger_tip = hand_landmarks.landmark[mp_hands.HandLandmark.PINKY_TIP]
 
             # Print positions of finger landmarks.
-            Finger_Position_Array = []
-            Finger_Position_Array.append
+            Print_Finger_Loc(thumb_tip, index_finger_tip, middle_finger_tip, ring_finger_tip, little_finger_tip)
 
     # Display the image.
     cv2.imshow('Hand Gesture Recognition', image)
